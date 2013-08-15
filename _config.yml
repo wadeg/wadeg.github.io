@@ -1,0 +1,14 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+title : Wade Gasior 
+production_url : http://wadegasior.com
+description: "Short posts by Wade"
+disqus_shortname: wcg
+analytics: UA-43173861-1
+author :
+  name : Wade Gasior 
+  github : wadeg
+  email: wadegasior@gmail.com
