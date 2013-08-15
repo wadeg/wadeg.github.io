@@ -4,4 +4,4 @@ title: USB Detection in OSX
 category: posts
 ---
 
-This is a post.
+Check out the [example project](https://github.com/wadeg/usbdetector).
